@@ -363,6 +363,7 @@ body {
   overflow: hidden;
   height: 0px;
   padding-bottom: 40%;
+  width: 50%;
 }
 .img_photo {
   position: absolute;
